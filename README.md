@@ -44,3 +44,33 @@ Questo repository locale raccoglie i materiali per la tua Space di GitHub Copilo
 - Mantieni la struttura e i nomi dei file per facilitare l’indicizzazione della Space.
 - Aggiorna i file e ricarica quando necessario (o gestisci tutto in un repo GitHub).
 - Per dubbi, chiedi a Copilot di usare i materiali caricati e di citare le schede rilevanti.
+
+## Indice PDF – Lezioni (repo root)
+
+Collegamenti rapidi ai PDF delle lezioni presenti nella root del repository.
+
+- [lezione 1.pdf](lezione%201.pdf)
+- [lezione 2.pdf](lezione%202.pdf)
+- [lezione 3.pdf](lezione%203.pdf)
+- [lezione 4.pdf](lezione%204.pdf)
+- [lezione 5.pdf](lezione%205.pdf)
+- [lezione 6.pdf](lezione%206.pdf)
+- [lezione 7.pdf](lezione%207.pdf)
+- [lezione 8.pdf](lezione%208.pdf)
+- [lezione 9.pdf](lezione%209.pdf)
+- [lezione 10.pdf](lezione%2010.pdf)
+- [lezione 11.pdf](lezione%2011.pdf)
+- [lezione 12.pdf](lezione%2012.pdf)
+- [lezione 13.pdf](lezione%2013.pdf)
+- [lezione 14.pdf](lezione%2014.pdf)
+- [lezione 15.pdf](lezione%2015.pdf)
+- [lezione 16.pdf](lezione%2016.pdf)
+- [lezione 17.pdf](lezione%2017.pdf)
+- [lezione 18.pdf](lezione%2018.pdf)
+- [lezione 19.pdf](lezione%2019.pdf)
+- [lezione 20.pdf](lezione%2020.pdf)
+- [lezione 21.pdf](lezione%2021.pdf)
+- [lezione 22.pdf](lezione%2022.pdf)
+- [lezione 23.pdf](lezione%2023.pdf)
+- [lezione 24.pdf](lezione%2024.pdf)
+- [lezione 25.pdf](lezione%2025.pdf)
