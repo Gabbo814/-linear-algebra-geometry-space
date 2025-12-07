@@ -1,0 +1,3 @@
+﻿Problema,Tuo tentativo,Tipo di errore,Metodo corretto,Tag concettuali,Nota di risoluzione,Data di revisione
+""Rouché–Capelli su Ax=b"",""..."" ,Errore concettuale,""Confronta rank(A) e rank([A|b])"",""sistemi, rango"",""Ricalcolato con RREF"",""2025-12-10""
+""Diagonalizzazione"",""..."" ,Procedura incompleta,""Trova autovettori base e verifica molteplicità"",""autovalori, diagonalizzazione"",""Confermato con P^{-1}AP=D"",""2025-12-12""
